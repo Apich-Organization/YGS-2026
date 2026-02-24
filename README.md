@@ -1,5 +1,9 @@
 # YGS-2026
 
+[![Discord Server](https://img.shields.io/discord/1459399539403522074.svg?label=Discord&logo=discord&color=blue)](https://discord.gg/D5e2czMTT9)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18320725.svg)](https://doi.org/10.5281/zenodo.18320725)
+[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue?style=for-the-badge)](http://creativecommons.org/publicdomain/zero/1.0/)
+
  Non-crucial information on YGS-2026 malware family. 
 
  Organization members could refer to the YGS-2026-01 repository for more information about YGS-2026-01 and related YGS-2026-02.
